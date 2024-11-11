@@ -17,7 +17,7 @@ Grass network bot is a simple tool designed to automate the interaction to Grass
    ```
 2. Navigate to the project directory:
 	```bash
-	cd grass-network-bot
+	cd Grass-auto-min
 	```
 3. Install the necessary dependencies:
 	```bash
