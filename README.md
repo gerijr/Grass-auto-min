@@ -1,5 +1,4 @@
 # Grass-auto-min
-# Grass Network Bot
 
 # Description
 Grass network bot is a simple tool designed to automate the interaction to Grass node server.
